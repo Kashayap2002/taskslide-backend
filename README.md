@@ -39,7 +39,7 @@ backend/
 3. **Database (MySQL)**: Stores persistent data including user details and tasks.
 
 ### Architecture Diagram
-```plaintext
+```plaintext```
 Frontend (React)
    |
    | HTTP Requests (Axios)
@@ -48,7 +48,7 @@ Backend (Node.js + Express.js)
    |
    | SQL Queries (mysql2)
    ↓
-Database (MySQL)
+Database (MySQL) 
 
 ---
 
