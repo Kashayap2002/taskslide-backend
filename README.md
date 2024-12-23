@@ -11,23 +11,7 @@ The backend of TaskSlide is built using **Node.js** and **Express.js**, with **M
 
 ## Folder Structure
 
-backend/
-├── config/               
-│   └── db.js             # MySQL database connection
-├── middleware/           
-│   └── authMiddleware.js # JWT authentication middleware
-├── models/               
-│   └── user.js           # User model with database queries
-├── routes/               
-│   ├── authRoutes.js     # Routes for user authentication
-│   └── taskRoutes.js     # Routes for task management
-├── utils/                
-│   └── hashPassword.js   # Utility for generating hashed passwords
-├── node_modules/         # Node.js dependencies
-├── app.js                # Entry point for the backend application
-├── package.json          # Project metadata and dependencies
-├── package-lock.json     # Auto-generated dependency tree lock file
-└── README.md             # Project documentation
+![Folder Structure](./images/folder_structure_diagram.png)
 
 ## Architecture Overview
 
