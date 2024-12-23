@@ -12,7 +12,7 @@ The backend of TaskSlide is built using **Node.js** and **Express.js**, with **M
 ## Architecture Overview
 
 
-![Architecture Overview](./images/Architecture Overview.png)
+![Architecture Overview](./images/Architecture.png)
 
 ## Folder Structure
 
