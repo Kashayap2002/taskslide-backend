@@ -9,11 +9,15 @@ The backend of TaskSlide is built using **Node.js** and **Express.js**, with **M
 
 ---
 
+## Architecture Overview
+
+
+![Architecture Overview](./images/Architecture Overview.png)
+
 ## Folder Structure
 
 ![Folder Structure](./images/folder_structure_diagram.png)
 
-## Architecture Overview
 
 ### High-Level Workflow
 1. **Frontend (React)**: Handles user interface and sends requests to the backend.
