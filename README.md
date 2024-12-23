@@ -48,7 +48,8 @@ Backend (Node.js + Express.js)
    |
    | SQL Queries (mysql2)
    ↓
-Database (MySQL) 
+Database (MySQL)
+
 
 ---
 
