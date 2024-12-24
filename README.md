@@ -4,6 +4,18 @@ TaskSlide is a task management application designed to help users organize their
 
 ---
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Architecture Overview](#architecture-overview)
+3. [Folder Structure](#folder-structure)
+4. [Key Features](#key-features)
+5. [Database Schema](#database-schema)
+6. [Backend API Endpoints](#backend-api-endpoints)
+7. [How to Set Up and Run the Backend Locally](#how-to-set-up-and-run-the-backend-locally)
+8. [Workflow of TaskSlide](#workflow-of-taskslide)
+9. [Future Enhancements](#future-enhancements)
+10. [Contact and Support](#contact-and-support)
+
 ## Overview
 The backend of TaskSlide is built using **Node.js** and **Express.js**, with **MySQL** as the database. It implements a secure JWT-based authentication system, task management functionalities, and serves as the backbone of the application.
 
